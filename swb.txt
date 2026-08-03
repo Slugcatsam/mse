@@ -1,0 +1,1940 @@
+[CustomCards]
+	[	{
+			"name": "UM01—Rakdos Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Spider Mercenary ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM01—Rakdos Signpost.png"
+			}
+		},
+		{
+			"name": "UM02—Selesnya Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Moth Shaman ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM02—Selesnya Signpost.png"
+			}
+		},
+		{
+			"name": "UM03—Simic Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Dragonfly Wizard ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM03—Simic Signpost.png"
+			}
+		},
+		{
+			"name": "UM04—Gruul Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Ant Soldier ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM04—Gruul Signpost.png"
+			}
+		},
+		{
+			"name": "UM05—Boros Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Bee Noble ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM05—Boros Signpost.png"
+			}
+		},
+		{
+			"name": "UM06—Dimir Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Wasp Rogue ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM06—Dimir Signpost.png"
+			}
+		},
+		{
+			"name": "UM07—Golgari Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Stickbug Druid ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM07—Golgari Signpost.png"
+			}
+		},
+		{
+			"name": "UM08—Azorious Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Mantis Monk ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM08—Azorious Signpost.png"
+			}
+		},
+		{
+			"name": "UM09—Orzhov Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Beetle Soldier ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM09—Orzhov Signpost.png"
+			}
+		},
+		{
+			"name": "UM10—Izzet Signpost",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Locust Wizard ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UM10—Izzet Signpost.png"
+			}
+		},
+		{
+			"name": "CM01—Selesnya Cycle",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM01—Selesnya Cycle.png"
+			}
+		},
+		{
+			"name": "CM02—Dimir Cycle",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM02—Dimir Cycle.png"
+			}
+		},
+		{
+			"name": "CM03—Rakdos Cycle",
+			"rarity": "common",
+			"mana_cost": "{4}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM03—Rakdos Cycle.png"
+			}
+		},
+		{
+			"name": "CM04—Gruul Cycle",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM04—Gruul Cycle.png"
+			}
+		},
+		{
+			"name": "CM05—Azorious Cycle",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM05—Azorious Cycle.png"
+			}
+		},
+		{
+			"name": "CM06—Orzhov Cycle",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM06—Orzhov Cycle.png"
+			}
+		},
+		{
+			"name": "CM07—Simic Cycle",
+			"rarity": "common",
+			"mana_cost": "{G/U}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM07—Simic Cycle.png"
+			}
+		},
+		{
+			"name": "CM08—Golgari Cycle",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM08—Golgari Cycle.png"
+			}
+		},
+		{
+			"name": "CM09—Izzet Cycle",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM09—Izzet Cycle.png"
+			}
+		},
+		{
+			"name": "CM10—Boros Cycle",
+			"rarity": "common",
+			"mana_cost": "{4}{R/W}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CM10—Boros Cycle.png"
+			}
+		},
+		{
+			"name": "Dew Quickwing",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Dragonfly Rogue ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Dew Quickwing.png"
+			}
+		},
+		{
+			"name": "Melisandre, Taken by Rot",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Creature — Ant Zombie Noble ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Melisandre, Taken by Rot.png"
+			}
+		},
+		{
+			"name": "The Huntsman",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Spider Mercenary ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/The Huntsman.png"
+			}
+		},
+		{
+			"name": "Anselm, Thousand Limbed",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Mantis Monk ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Anselm, Thousand Limbed.png"
+			}
+		},
+		{
+			"name": "Eleusia, Forsaken Queen",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Wasp Noble ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Eleusia, Forsaken Queen.png"
+			}
+		},
+		{
+			"name": "Captain Mordae",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Spider Pirate ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Captain Mordae.png"
+			}
+		},
+		{
+			"name": "Althea, Healer of Mt. Cairn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Moth Druid ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Althea, Healer of Mt. Cairn.png"
+			}
+		},
+		{
+			"name": "Caelum of Dandelion",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Dragonfly Artificier ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Caelum of Dandelion.png"
+			}
+		},
+		{
+			"name": "Melisandre, Hivequeen",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Ant Noble ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Melisandre, Hivequeen.png"
+			}
+		},
+		{
+			"name": "Baldwin, Goldwinged",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Bee Noble ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Baldwin, Goldwinged.png"
+			}
+		},
+		{
+			"name": "Sibretch, Swarm Whisperer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Wasp Warrior ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Sibretch, Swarm Whisperer.png"
+			}
+		},
+		{
+			"name": "Eadric Barkwarden",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Stickbug Shaman ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Eadric Barkwarden.png"
+			}
+		},
+		{
+			"name": "Alaric, of Sword and Song",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Mantis Monk ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Alaric, of Sword and Song.png"
+			}
+		},
+		{
+			"name": "Osbert, Blackplate Sovereign",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Beetle Soldier ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Osbert, Blackplate Sovereign.png"
+			}
+		},
+		{
+			"name": "The Devourers",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Locust ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/The Devourers.png"
+			}
+		},
+		{
+			"name": "CW01— Lifelink",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Moth Shaman ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW01— Lifelink.png"
+			}
+		},
+		{
+			"name": "CW02—Metamorphosis",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Moth Warrior ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW02—Metamorphosis.png"
+			}
+		},
+		{
+			"name": "CW03—Instant Metamorphosis",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW03—Instant Metamorphosis.png"
+			}
+		},
+		{
+			"name": "CW04—Double Strike",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Mantis Monk ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW04—Double Strike.png"
+			}
+		},
+		{
+			"name": "CW05—Reach Mantis",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Monk Warrior ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW05—Reach Mantis.png"
+			}
+		},
+		{
+			"name": "CW06—Temp Anthem",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW06—Temp Anthem.png"
+			}
+		},
+		{
+			"name": "CW07—Decree",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bee Soldier ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW07—Decree.png"
+			}
+		},
+		{
+			"name": "CW08—Bee Cantrip",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW08—Bee Cantrip.png"
+			}
+		},
+		{
+			"name": "CW09—Lockdown",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW09—Lockdown.png"
+			}
+		},
+		{
+			"name": "CW10—Cantrip",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW10—Cantrip.png"
+			}
+		},
+		{
+			"name": "CW11—Big Flyer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Beetle Beast ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW11—Big Flyer.png"
+			}
+		},
+		{
+			"name": "CW12—+1/+1 Aura",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CW12—+1/+1 Aura.png"
+			}
+		},
+		{
+			"name": "CU01—Small Flyer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dragonfly Scout ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU01—Small Flyer.png"
+			}
+		},
+		{
+			"name": "CU02—Ability Counter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Dragonfly Wizard ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU02—Ability Counter.png"
+			}
+		},
+		{
+			"name": "CU03—Untap Lands",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU03—Untap Lands.png"
+			}
+		},
+		{
+			"name": "CU04—Spell Return",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Locust Wizard ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU04—Spell Return.png"
+			}
+		},
+		{
+			"name": "CU05—Scry creature",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Locust Wizard ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU05—Scry creature.png"
+			}
+		},
+		{
+			"name": "CU06—Worse Preordain",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU06—Worse Preordain.png"
+			}
+		},
+		{
+			"name": "CU07—Mill Grab",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU07—Mill Grab.png"
+			}
+		},
+		{
+			"name": "CU08—Mill Rogue",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Wasp Rogue ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU08—Mill Rogue.png"
+			}
+		},
+		{
+			"name": "CU09—Mill Counter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU09—Mill Counter.png"
+			}
+		},
+		{
+			"name": "CU10—Buff Spell",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU10—Buff Spell.png"
+			}
+		},
+		{
+			"name": "CU11—Psuedocontrol",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU11—Psuedocontrol.png"
+			}
+		},
+		{
+			"name": "CU12—Temp Buff",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Mantis Monk ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CU12—Temp Buff.png"
+			}
+		},
+		{
+			"name": "CB01—Duress",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB01—Duress.png"
+			}
+		},
+		{
+			"name": "CB02—Deathtouch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Wasp Assassin ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB02—Deathtouch.png"
+			}
+		},
+		{
+			"name": "CB03—Venom",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wasp Assassin ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB03—Venom.png"
+			}
+		},
+		{
+			"name": "CB04—Murder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB04—Murder.png"
+			}
+		},
+		{
+			"name": "CB05—Recycle",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB05—Recycle.png"
+			}
+		},
+		{
+			"name": "CB06—Mana Dork",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Stickbug Druid ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB06—Mana Dork.png"
+			}
+		},
+		{
+			"name": "CB07—Beetle Deathtouch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bettle Soldier ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB07—Beetle Deathtouch.png"
+			}
+		},
+		{
+			"name": "CB08—Big Creature",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Beetle Warrior ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB08—Big Creature.png"
+			}
+		},
+		{
+			"name": "CB09—Menace",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Beetle Horror ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB09—Menace.png"
+			}
+		},
+		{
+			"name": "CB10—Outlaw Drain",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spider Warlock ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB10—Outlaw Drain.png"
+			}
+		},
+		{
+			"name": "CB11—Drain",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider Mercenary ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB11—Drain.png"
+			}
+		},
+		{
+			"name": "CB12—Big Flyer",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Spider Demon ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CB12—Big Flyer.png"
+			}
+		},
+		{
+			"name": "CR01—Loot",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR01—Loot.png"
+			}
+		},
+		{
+			"name": "CR02—Treasure Spider",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Spider Pirate ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR02—Treasure Spider.png"
+			}
+		},
+		{
+			"name": "CR03—Haste",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Spider Mercenary ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR03—Haste.png"
+			}
+		},
+		{
+			"name": "CR04—Decree",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Bee Soldier ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR04—Decree.png"
+			}
+		},
+		{
+			"name": "CR05—Haste Aura",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR05—Haste Aura.png"
+			}
+		},
+		{
+			"name": "CR06—Flying Haste",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Bee Beserker ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR06—Flying Haste.png"
+			}
+		},
+		{
+			"name": "CR07—+1+0 Giver",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Ant Shaman ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR07—+1+0 Giver.png"
+			}
+		},
+		{
+			"name": "CR08—Bolt",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR08—Bolt.png"
+			}
+		},
+		{
+			"name": "CR09—Big Ping",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR09—Big Ping.png"
+			}
+		},
+		{
+			"name": "CR10—Summoner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Locust Wizard ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR10—Summoner.png"
+			}
+		},
+		{
+			"name": "CR11—Psuedo-card-draw",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR11—Psuedo-card-draw.png"
+			}
+		},
+		{
+			"name": "CR12—Fork",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Locust Wizard ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CR12—Fork.png"
+			}
+		},
+		{
+			"name": "CG01—Big Creature",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Ant Beast ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG01—Big Creature.png"
+			}
+		},
+		{
+			"name": "CG02—Swarm",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Ant Soldier ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG02—Swarm.png"
+			}
+		},
+		{
+			"name": "CG03—Plummet",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG03—Plummet.png"
+			}
+		},
+		{
+			"name": "CG04—Hexproof",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Stickbug Shaman ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG04—Hexproof.png"
+			}
+		},
+		{
+			"name": "CG05—Excempt Hexproof",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG05—Excempt Hexproof.png"
+			}
+		},
+		{
+			"name": "CG06—Cantrip",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG06—Cantrip.png"
+			}
+		},
+		{
+			"name": "CG07—Flash",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dragonfly Warrior ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG07—Flash.png"
+			}
+		},
+		{
+			"name": "CG08—Untap",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG08—Untap.png"
+			}
+		},
+		{
+			"name": "CG09—Slow Giant Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG09—Slow Giant Growth.png"
+			}
+		},
+		{
+			"name": "CG10—Regenerate",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Moth Shaman ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG10—Regenerate.png"
+			}
+		},
+		{
+			"name": "CG11—Totem armor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG11—Totem armor.png"
+			}
+		},
+		{
+			"name": "CG12—Shamanic Revalation",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/CG12—Shamanic Revalation.png"
+			}
+		},
+		{
+			"name": "UW01—Metamorphosis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Moth ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW01—Metamorphosis.png"
+			}
+		},
+		{
+			"name": "UW02—Big Flyer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Moth Beast ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW02—Big Flyer.png"
+			}
+		},
+		{
+			"name": "UW03—Decree",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bee Soldier ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW03—Decree.png"
+			}
+		},
+		{
+			"name": "UW04—Buff",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW04—Buff.png"
+			}
+		},
+		{
+			"name": "UW05—Counter",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Beetle Scout ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW05—Counter.png"
+			}
+		},
+		{
+			"name": "UW06—Beetle Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW06—Beetle Removal.png"
+			}
+		},
+		{
+			"name": "UW07—Mass Tokens",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW07—Mass Tokens.png"
+			}
+		},
+		{
+			"name": "UW08—Flying Mantis",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Mantis Monk ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UW08—Flying Mantis.png"
+			}
+		},
+		{
+			"name": "UU01—Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dragonfly Scout ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU01—Champion.png"
+			}
+		},
+		{
+			"name": "UU02—Instant Draw",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU02—Instant Draw.png"
+			}
+		},
+		{
+			"name": "UU03—Venom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wasp Assassin ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU03—Venom.png"
+			}
+		},
+		{
+			"name": "UU04—Mill Draw",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU04—Mill Draw.png"
+			}
+		},
+		{
+			"name": "UU05—Draw Mantis",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Mantis Warrior ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU05—Draw Mantis.png"
+			}
+		},
+		{
+			"name": "UU06—Flying Instant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU06—Flying Instant.png"
+			}
+		},
+		{
+			"name": "UU07—Divination",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU07—Divination.png"
+			}
+		},
+		{
+			"name": "UU08—Spell Reveal",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UU08—Spell Reveal.png"
+			}
+		},
+		{
+			"name": "UB01—Life Lose Adder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Wasp Soldier ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UB01—Life Lose Adder.png"
+			}
+		},
+		{
+			"name": "UB02—Slow Murder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UB02—Slow Murder.png"
+			}
+		},
+		{
+			"name": "UB03—Defender Counter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beetle Scout ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UB03—Defender Counter.png"
+			}
+		},
+		{
+			"name": "Husk Wall",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Beetle Skeleton Wall ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Husk Wall.png"
+			}
+		},
+		{
+			"name": "UB05—Stickbug Deathtouch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Stickbug Rogue ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UB05—Stickbug Deathtouch.png"
+			}
+		},
+		{
+			"name": "UB06—Menace",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Stickbug Warrior ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UB06—Menace.png"
+			}
+		},
+		{
+			"name": "UB07—Spider Murder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UB07—Spider Murder.png"
+			}
+		},
+		{
+			"name": "UB08—Reanimate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UB08—Reanimate.png"
+			}
+		},
+		{
+			"name": "UR01—Team Bolster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bee Soldier ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UR01—Team Bolster.png"
+			}
+		},
+		{
+			"name": "UR02—Speed aura",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UR02—Speed aura.png"
+			}
+		},
+		{
+			"name": "Saile, Chosen of Melisandre",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Ant Artificer ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Saile, Chosen of Melisandre.png"
+			}
+		},
+		{
+			"name": "UR04—Swarm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ant Soldier ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UR04—Swarm.png"
+			}
+		},
+		{
+			"name": "UR05—Large Impulse Draw",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UR05—Large Impulse Draw.png"
+			}
+		},
+		{
+			"name": "UR06—Menace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spider Pirate ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UR06—Menace.png"
+			}
+		},
+		{
+			"name": "UR07—Bolt",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UR07—Bolt.png"
+			}
+		},
+		{
+			"name": "UR08—Exile Enchantment",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UR08—Exile Enchantment.png"
+			}
+		},
+		{
+			"name": "UG01—Swift",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Dragonfly Scout ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UG01—Swift.png"
+			}
+		},
+		{
+			"name": "UG02—Split Second",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dragonfly Warrior ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UG02—Split Second.png"
+			}
+		},
+		{
+			"name": "UG03—Instant Speed Ramp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UG03—Instant Speed Ramp.png"
+			}
+		},
+		{
+			"name": "Ricktor, Chosen of Melisandre",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Ant Warrior ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Ricktor, Chosen of Melisandre.png"
+			}
+		},
+		{
+			"name": "UG05—Moth Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Moth Egg ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UG05—Moth Egg.png"
+			}
+		},
+		{
+			"name": "UG06—Metamorphosis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UG06—Metamorphosis.png"
+			}
+		},
+		{
+			"name": "UG07—Damage Prevention",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Stickbug Shaman ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UG07—Damage Prevention.png"
+			}
+		},
+		{
+			"name": "UG08—Camouflage Overrun",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/UG08—Camouflage Overrun.png"
+			}
+		},
+		{
+			"name": "Baldwin's Crusade",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Baldwin's Crusade.png"
+			}
+		},
+		{
+			"name": "MW02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/MW02.png"
+			}
+		},
+		{
+			"name": "Caelum Finds the Library",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Caelum Finds the Library.png"
+			}
+		},
+		{
+			"name": "Rainfall",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Rainfall.png"
+			}
+		},
+		{
+			"name": "The World Rots Away",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/The World Rots Away.png"
+			}
+		},
+		{
+			"name": "Gravewake",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Gravewake.png"
+			}
+		},
+		{
+			"name": "Invasion of the Coasts",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Invasion of the Coasts.png"
+			}
+		},
+		{
+			"name": "MR02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/MR02.png"
+			}
+		},
+		{
+			"name": "Eadric's Peace",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Eadric's Peace.png"
+			}
+		},
+		{
+			"name": "MG02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/MG02.png"
+			}
+		},
+		{
+			"name": "Nectar Vial",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Food ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Nectar Vial.png"
+			}
+		},
+		{
+			"name": "Rusted Needle",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Rusted Needle.png"
+			}
+		},
+		{
+			"name": "Scarab Sigil",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Scarab Sigil.png"
+			}
+		},
+		{
+			"name": "Devouring Aplifier",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Artifact",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Devouring Aplifier.png"
+			}
+		},
+		{
+			"name": "Barkmane Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Barkmane Armor.png"
+			}
+		},
+		{
+			"name": "Cutthroat's Cutlass",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Cutthroat's Cutlass.png"
+			}
+		},
+		{
+			"name": "Healer's Bowl",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Healer's Bowl.png"
+			}
+		},
+		{
+			"name": "Royal Treasury",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Royal Treasury.png"
+			}
+		},
+		{
+			"name": "Gathering Hall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Gathering Hall.png"
+			}
+		},
+		{
+			"name": "Aphid Fields",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Aphid Fields.png"
+			}
+		},
+		{
+			"name": "Deepwater Pond",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Deepwater Pond.png"
+			}
+		},
+		{
+			"name": "Festering Antyard",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Festering Antyard.png"
+			}
+		},
+		{
+			"name": "Bountiful Shore",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Bountiful Shore.png"
+			}
+		},
+		{
+			"name": "Skybound Hive",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Skybound Hive.png"
+			}
+		},
+		{
+			"name": "Prayer Pearls",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Prayer Pearls.png"
+			}
+		},
+		{
+			"name": "Tome of Good Fortune",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/swb/Tome of Good Fortune.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Dew Quickwing
+		2 Melisandre, Taken by Rot
+		2 The Huntsman
+		2 Anselm, Thousand Limbed
+		2 Eleusia, Forsaken Queen
+		1 Captain Mordae
+		1 Althea, Healer of Mt. Cairn
+		1 Caelum of Dandelion
+		1 Melisandre, Hivequeen
+		1 Baldwin, Goldwinged
+		1 Sibretch, Swarm Whisperer
+		1 Eadric Barkwarden
+		1 Alaric, of Sword and Song
+		1 Osbert, Blackplate Sovereign
+		1 The Devourers
+		1 Baldwin's Crusade
+		1 MW02
+		1 Caelum Finds the Library
+		1 Rainfall
+		1 The World Rots Away
+		1 Gravewake
+		1 Invasion of the Coasts
+		1 MR02
+		1 Eadric's Peace
+		1 MG02
+		[UncommonSlot(3)]
+	9 UM01—Rakdos Signpost
+		9 UM02—Selesnya Signpost
+		9 UM03—Simic Signpost
+		9 UM04—Gruul Signpost
+		9 UM05—Boros Signpost
+		9 UM06—Dimir Signpost
+		9 UM07—Golgari Signpost
+		9 UM08—Azorious Signpost
+		9 UM09—Orzhov Signpost
+		9 UM10—Izzet Signpost
+		9 UW01—Metamorphosis
+		9 UW02—Big Flyer
+		9 UW03—Decree
+		9 UW04—Buff
+		9 UW05—Counter
+		9 UW06—Beetle Removal
+		9 UW07—Mass Tokens
+		9 UW08—Flying Mantis
+		9 UU01—Champion
+		9 UU02—Instant Draw
+		9 UU03—Venom
+		9 UU04—Mill Draw
+		9 UU05—Draw Mantis
+		9 UU06—Flying Instant
+		9 UU07—Divination
+		9 UU08—Spell Reveal
+		9 UB01—Life Lose Adder
+		9 UB02—Slow Murder
+		9 UB03—Defender Counter
+		9 Husk Wall
+		9 UB05—Stickbug Deathtouch
+		9 UB06—Menace
+		9 UB07—Spider Murder
+		9 UB08—Reanimate
+		9 UR01—Team Bolster
+		9 UR02—Speed aura
+		9 Saile, Chosen of Melisandre
+		9 UR04—Swarm
+		9 UR05—Large Impulse Draw
+		9 UR06—Menace
+		9 UR07—Bolt
+		9 UR08—Exile Enchantment
+		9 UG01—Swift
+		9 UG02—Split Second
+		9 UG03—Instant Speed Ramp
+		9 Ricktor, Chosen of Melisandre
+		9 UG05—Moth Egg
+		9 UG06—Metamorphosis
+		9 UG07—Damage Prevention
+		9 UG08—Camouflage Overrun
+		9 Devouring Aplifier
+		9 Barkmane Armor
+		9 Healer's Bowl
+		9 Royal Treasury
+		9 Aphid Fields
+		9 Deepwater Pond
+		9 Festering Antyard
+		9 Bountiful Shore
+		9 Skybound Hive
+		9 Tome of Good Fortune
+		[CommonSlot(10)]
+	30 CM01—Selesnya Cycle
+		30 CM02—Dimir Cycle
+		30 CM03—Rakdos Cycle
+		30 CM04—Gruul Cycle
+		30 CM05—Azorious Cycle
+		30 CM06—Orzhov Cycle
+		30 CM07—Simic Cycle
+		30 CM08—Golgari Cycle
+		30 CM09—Izzet Cycle
+		30 CM10—Boros Cycle
+		30 CW01— Lifelink
+		30 CW02—Metamorphosis
+		30 CW03—Instant Metamorphosis
+		30 CW04—Double Strike
+		30 CW05—Reach Mantis
+		30 CW06—Temp Anthem
+		30 CW07—Decree
+		30 CW08—Bee Cantrip
+		30 CW09—Lockdown
+		30 CW10—Cantrip
+		30 CW11—Big Flyer
+		30 CW12—+1/+1 Aura
+		30 CU01—Small Flyer
+		30 CU02—Ability Counter
+		30 CU03—Untap Lands
+		30 CU04—Spell Return
+		30 CU05—Scry creature
+		30 CU06—Worse Preordain
+		30 CU07—Mill Grab
+		30 CU08—Mill Rogue
+		30 CU09—Mill Counter
+		30 CU10—Buff Spell
+		30 CU11—Psuedocontrol
+		30 CU12—Temp Buff
+		30 CB01—Duress
+		30 CB02—Deathtouch
+		30 CB03—Venom
+		30 CB04—Murder
+		30 CB05—Recycle
+		30 CB06—Mana Dork
+		30 CB07—Beetle Deathtouch
+		30 CB08—Big Creature
+		30 CB09—Menace
+		30 CB10—Outlaw Drain
+		30 CB11—Drain
+		30 CB12—Big Flyer
+		30 CR01—Loot
+		30 CR02—Treasure Spider
+		30 CR03—Haste
+		30 CR04—Decree
+		30 CR05—Haste Aura
+		30 CR06—Flying Haste
+		30 CR07—+1+0 Giver
+		30 CR08—Bolt
+		30 CR09—Big Ping
+		30 CR10—Summoner
+		30 CR11—Psuedo-card-draw
+		30 CR12—Fork
+		30 CG01—Big Creature
+		30 CG02—Swarm
+		30 CG03—Plummet
+		30 CG04—Hexproof
+		30 CG05—Excempt Hexproof
+		30 CG06—Cantrip
+		30 CG07—Flash
+		30 CG08—Untap
+		30 CG09—Slow Giant Growth
+		30 CG10—Regenerate
+		30 CG11—Totem armor
+		30 CG12—Shamanic Revalation
+		30 Nectar Vial
+		30 Rusted Needle
+		30 Scarab Sigil
+		30 Cutthroat's Cutlass
+		30 Gathering Hall
+		30 Prayer Pearls
+		[WildcardSlot(1)]
+	10 UM01—Rakdos Signpost
+	10 UM02—Selesnya Signpost
+	10 UM03—Simic Signpost
+	10 UM04—Gruul Signpost
+	10 UM05—Boros Signpost
+	10 UM06—Dimir Signpost
+	10 UM07—Golgari Signpost
+	10 UM08—Azorious Signpost
+	10 UM09—Orzhov Signpost
+	10 UM10—Izzet Signpost
+	10 CM01—Selesnya Cycle
+	10 CM02—Dimir Cycle
+	10 CM03—Rakdos Cycle
+	10 CM04—Gruul Cycle
+	10 CM05—Azorious Cycle
+	10 CM06—Orzhov Cycle
+	10 CM07—Simic Cycle
+	10 CM08—Golgari Cycle
+	10 CM09—Izzet Cycle
+	10 CM10—Boros Cycle
+	10 Dew Quickwing
+	10 Melisandre, Taken by Rot
+	10 The Huntsman
+	10 Anselm, Thousand Limbed
+	10 Eleusia, Forsaken Queen
+	10 Captain Mordae
+	10 Althea, Healer of Mt. Cairn
+	10 Caelum of Dandelion
+	10 Melisandre, Hivequeen
+	10 Baldwin, Goldwinged
+	10 Sibretch, Swarm Whisperer
+	10 Eadric Barkwarden
+	10 Alaric, of Sword and Song
+	10 Osbert, Blackplate Sovereign
+	10 The Devourers
+	10 CW01— Lifelink
+	10 CW02—Metamorphosis
+	10 CW03—Instant Metamorphosis
+	10 CW04—Double Strike
+	10 CW05—Reach Mantis
+	10 CW06—Temp Anthem
+	10 CW07—Decree
+	10 CW08—Bee Cantrip
+	10 CW09—Lockdown
+	10 CW10—Cantrip
+	10 CW11—Big Flyer
+	10 CW12—+1/+1 Aura
+	10 CU01—Small Flyer
+	10 CU02—Ability Counter
+	10 CU03—Untap Lands
+	10 CU04—Spell Return
+	10 CU05—Scry creature
+	10 CU06—Worse Preordain
+	10 CU07—Mill Grab
+	10 CU08—Mill Rogue
+	10 CU09—Mill Counter
+	10 CU10—Buff Spell
+	10 CU11—Psuedocontrol
+	10 CU12—Temp Buff
+	10 CB01—Duress
+	10 CB02—Deathtouch
+	10 CB03—Venom
+	10 CB04—Murder
+	10 CB05—Recycle
+	10 CB06—Mana Dork
+	10 CB07—Beetle Deathtouch
+	10 CB08—Big Creature
+	10 CB09—Menace
+	10 CB10—Outlaw Drain
+	10 CB11—Drain
+	10 CB12—Big Flyer
+	10 CR01—Loot
+	10 CR02—Treasure Spider
+	10 CR03—Haste
+	10 CR04—Decree
+	10 CR05—Haste Aura
+	10 CR06—Flying Haste
+	10 CR07—+1+0 Giver
+	10 CR08—Bolt
+	10 CR09—Big Ping
+	10 CR10—Summoner
+	10 CR11—Psuedo-card-draw
+	10 CR12—Fork
+	10 CG01—Big Creature
+	10 CG02—Swarm
+	10 CG03—Plummet
+	10 CG04—Hexproof
+	10 CG05—Excempt Hexproof
+	10 CG06—Cantrip
+	10 CG07—Flash
+	10 CG08—Untap
+	10 CG09—Slow Giant Growth
+	10 CG10—Regenerate
+	10 CG11—Totem armor
+	10 CG12—Shamanic Revalation
+	10 UW01—Metamorphosis
+	10 UW02—Big Flyer
+	10 UW03—Decree
+	10 UW04—Buff
+	10 UW05—Counter
+	10 UW06—Beetle Removal
+	10 UW07—Mass Tokens
+	10 UW08—Flying Mantis
+	10 UU01—Champion
+	10 UU02—Instant Draw
+	10 UU03—Venom
+	10 UU04—Mill Draw
+	10 UU05—Draw Mantis
+	10 UU06—Flying Instant
+	10 UU07—Divination
+	10 UU08—Spell Reveal
+	10 UB01—Life Lose Adder
+	10 UB02—Slow Murder
+	10 UB03—Defender Counter
+	10 Husk Wall
+	10 UB05—Stickbug Deathtouch
+	10 UB06—Menace
+	10 UB07—Spider Murder
+	10 UB08—Reanimate
+	10 UR01—Team Bolster
+	10 UR02—Speed aura
+	10 Saile, Chosen of Melisandre
+	10 UR04—Swarm
+	10 UR05—Large Impulse Draw
+	10 UR06—Menace
+	10 UR07—Bolt
+	10 UR08—Exile Enchantment
+	10 UG01—Swift
+	10 UG02—Split Second
+	10 UG03—Instant Speed Ramp
+	10 Ricktor, Chosen of Melisandre
+	10 UG05—Moth Egg
+	10 UG06—Metamorphosis
+	10 UG07—Damage Prevention
+	10 UG08—Camouflage Overrun
+	10 Baldwin's Crusade
+	10 MW02
+	10 Caelum Finds the Library
+	10 Rainfall
+	10 The World Rots Away
+	10 Gravewake
+	10 Invasion of the Coasts
+	10 MR02
+	10 Eadric's Peace
+	10 MG02
+	10 Nectar Vial
+	10 Rusted Needle
+	10 Scarab Sigil
+	10 Devouring Aplifier
+	10 Barkmane Armor
+	10 Cutthroat's Cutlass
+	10 Healer's Bowl
+	10 Royal Treasury
+	10 Gathering Hall
+	10 Aphid Fields
+	10 Deepwater Pond
+	10 Festering Antyard
+	10 Bountiful Shore
+	10 Skybound Hive
+	10 Prayer Pearls
+	10 Tome of Good Fortune
+	[LandSlot(1)]
+	
