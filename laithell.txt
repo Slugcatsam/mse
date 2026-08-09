@@ -1,0 +1,4212 @@
+[CustomCards]
+	[	{
+			"name": "The Fracturing",
+			"rarity": "mythic",
+			"mana_cost": "{4}{C}{C}",
+			"type": "Legendary Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThe Fracturing.png"
+			}
+		},
+		{
+			"name": "Return from Whence",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellReturn from Whence.png"
+			}
+		},
+		{
+			"name": "Sacred Nexus",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSacred Nexus.png"
+			}
+		},
+		{
+			"name": "Ordained Guard",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOrdained Guard.png"
+			}
+		},
+		{
+			"name": "Magistrate Binding",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMagistrate Binding.png"
+			}
+		},
+		{
+			"name": "Frontline Bastioneer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Warrior ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFrontline Bastioneer.png"
+			}
+		},
+		{
+			"name": "Radiant Scutterer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Eldrazi Scion ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRadiant Scutterer.png"
+			}
+		},
+		{
+			"name": "Rune of Valliance",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRune of Valliance.png"
+			}
+		},
+		{
+			"name": "Communitive Wave",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCommunitive Wave.png"
+			}
+		},
+		{
+			"name": "High Clergy Suturer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellHigh Clergy Suturer.png"
+			}
+		},
+		{
+			"name": "Ordic Manipulator",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Eldrazi Scion ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOrdic Manipulator.png"
+			}
+		},
+		{
+			"name": "Living Ward",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Ward.png"
+			}
+		},
+		{
+			"name": "Mindless Seiger",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Eldrazi Horror ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMindless Seiger.png"
+			}
+		},
+		{
+			"name": "Sky Scourer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Eldrazi Bird Horror ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSky Scourer.png"
+			}
+		},
+		{
+			"name": "Influx Fields",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellInflux Fields.png"
+			}
+		},
+		{
+			"name": "Sleight Runner",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSleight Runner.png"
+			}
+		},
+		{
+			"name": "Living Skew",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Skew.png"
+			}
+		},
+		{
+			"name": "Messenger Crow",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMessenger Crow.png"
+			}
+		},
+		{
+			"name": "Lumendri Infultrator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLumendri Infultrator.png"
+			}
+		},
+		{
+			"name": "Meren's Rebuff",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMeren's Rebuff.png"
+			}
+		},
+		{
+			"name": "Nodemage Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNodemage Guard.png"
+			}
+		},
+		{
+			"name": "In Violation of Nature",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellIn Violation of Nature.png"
+			}
+		},
+		{
+			"name": "Search the Nexi",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSearch the Nexi.png"
+			}
+		},
+		{
+			"name": "On Brilliant Wings",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOn Brilliant Wings.png"
+			}
+		},
+		{
+			"name": "Uri's Return",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUri's Return.png"
+			}
+		},
+		{
+			"name": "Zydark's Processor",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Eldrazi Drone ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellZydark's Processor.png"
+			}
+		},
+		{
+			"name": "Cemetery Passage",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCemetery Passage.png"
+			}
+		},
+		{
+			"name": "Living Stain",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Stain.png"
+			}
+		},
+		{
+			"name": "CB04 — Devoid Dork",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCB04 — Devoid Dork.png"
+			}
+		},
+		{
+			"name": "Cursed to Death",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCursed to Death.png"
+			}
+		},
+		{
+			"name": "Vein Scutterer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVein Scutterer.png"
+			}
+		},
+		{
+			"name": "Influence of Zydark",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellInfluence of Zydark.png"
+			}
+		},
+		{
+			"name": "Mazetop Slitherer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Eldrazi Snake ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMazetop Slitherer.png"
+			}
+		},
+		{
+			"name": "Purge the Meek",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPurge the Meek.png"
+			}
+		},
+		{
+			"name": "Cursed Sight",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCursed Sight.png"
+			}
+		},
+		{
+			"name": "Return to Naught",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellReturn to Naught.png"
+			}
+		},
+		{
+			"name": "Asylum Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Rogue ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAsylum Guard.png"
+			}
+		},
+		{
+			"name": "Warp Crawler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWarp Crawler.png"
+			}
+		},
+		{
+			"name": "Explosive Confluence",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellExplosive Confluence.png"
+			}
+		},
+		{
+			"name": "Null Brawler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNull Brawler.png"
+			}
+		},
+		{
+			"name": "Chaser of Ailath",
+			"rarity": "common",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Eldrazi Spawn ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellChaser of Ailath.png"
+			}
+		},
+		{
+			"name": "Old World Apothecary",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dwarf Wizard ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOld World Apothecary.png"
+			}
+		},
+		{
+			"name": "Loxodon Pursecutor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Elephant Horror ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLoxodon Pursecutor.png"
+			}
+		},
+		{
+			"name": "Node Highlander",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Human Beserker ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNode Highlander.png"
+			}
+		},
+		{
+			"name": "Rage of Ailath",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRage of Ailath.png"
+			}
+		},
+		{
+			"name": "Paint the Battlefield",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPaint the Battlefield.png"
+			}
+		},
+		{
+			"name": "Unnerving Delerium",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUnnerving Delerium.png"
+			}
+		},
+		{
+			"name": "Living Passion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Passion.png"
+			}
+		},
+		{
+			"name": "Unseeing Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUnseeing Fury.png"
+			}
+		},
+		{
+			"name": "Blind Scouring",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellBlind Scouring.png"
+			}
+		},
+		{
+			"name": "Mana Garden",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMana Garden.png"
+			}
+		},
+		{
+			"name": "Living Propagation",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Propagation.png"
+			}
+		},
+		{
+			"name": "Grafted Strength",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellGrafted Strength.png"
+			}
+		},
+		{
+			"name": "Wreathdrake",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dragon ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWreathdrake.png"
+			}
+		},
+		{
+			"name": "Wurm Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Human Wurm Warrior ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWurm Guardian.png"
+			}
+		},
+		{
+			"name": "Blightipede",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Eldrazi Insect ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellBlightipede.png"
+			}
+		},
+		{
+			"name": "Vines of Esalesh",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Instant",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVines of Esalesh.png"
+			}
+		},
+		{
+			"name": "Manapath Diffuser",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellManapath Diffuser.png"
+			}
+		},
+		{
+			"name": "Living Rot",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Rot.png"
+			}
+		},
+		{
+			"name": "Crusher of Esalesh",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Eldrazi Beast ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCrusher of Esalesh.png"
+			}
+		},
+		{
+			"name": "Vineseep Bearer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Eldrazi Horror ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVineseep Bearer.png"
+			}
+		},
+		{
+			"name": "Leyring Bind",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyring Bind.png"
+			}
+		},
+		{
+			"name": "Order's Purifier",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOrder's Purifier.png"
+			}
+		},
+		{
+			"name": "Pollutor of Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Creature — Eldrazi Angel Horror ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPollutor of Faith.png"
+			}
+		},
+		{
+			"name": "Realmguard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRealmguard.png"
+			}
+		},
+		{
+			"name": "Maddening Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMaddening Drone.png"
+			}
+		},
+		{
+			"name": "Desperate Call",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDesperate Call.png"
+			}
+		},
+		{
+			"name": "Seeplands",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSeeplands.png"
+			}
+		},
+		{
+			"name": "Commune with the Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCommune with the Engine.png"
+			}
+		},
+		{
+			"name": "Lezzotep's Spies",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLezzotep's Spies.png"
+			}
+		},
+		{
+			"name": "Void Chainer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVoid Chainer.png"
+			}
+		},
+		{
+			"name": "Leyline Veil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline Veil.png"
+			}
+		},
+		{
+			"name": "Korynth's Accordance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellKorynth's Accordance.png"
+			}
+		},
+		{
+			"name": "Offering to the Councils",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOffering to the Councils.png"
+			}
+		},
+		{
+			"name": "Curse of Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCurse of Memory.png"
+			}
+		},
+		{
+			"name": "Fill the Gaps",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFill the Gaps.png"
+			}
+		},
+		{
+			"name": "Flint's Heist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFlint's Heist.png"
+			}
+		},
+		{
+			"name": "Slickshifter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Shapeshifter ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSlickshifter.png"
+			}
+		},
+		{
+			"name": "Forcefell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellForcefell.png"
+			}
+		},
+		{
+			"name": "Warped Plains",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWarped Plains.png"
+			}
+		},
+		{
+			"name": "Rot Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie Dragon ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRot Dragon.png"
+			}
+		},
+		{
+			"name": "Knowledge of Bidden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellKnowledge of Bidden.png"
+			}
+		},
+		{
+			"name": "Voidpass Instigator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creautre — Eldrazi",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVoidpass Instigator.png"
+			}
+		},
+		{
+			"name": "Pyredrake",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPyredrake.png"
+			}
+		},
+		{
+			"name": "Twin Born Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Eldrazi Spawn ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellTwin Born Monstrosity.png"
+			}
+		},
+		{
+			"name": "Living Chaos",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Chaos.png"
+			}
+		},
+		{
+			"name": "Arvaeth's Retort",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellArvaeth's Retort.png"
+			}
+		},
+		{
+			"name": "UR06—Dissolve",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR06—Dissolve.png"
+			}
+		},
+		{
+			"name": "Nalvethri Highdruid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvethri Highdruid.png"
+			}
+		},
+		{
+			"name": "Graft Bearer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Eldrazi Horror ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellGraft Bearer.png"
+			}
+		},
+		{
+			"name": "Stomping Heavyfoot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Bird ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellStomping Heavyfoot.png"
+			}
+		},
+		{
+			"name": "Fascinated Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human  Scientist  ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFascinated Researcher.png"
+			}
+		},
+		{
+			"name": "Mana Viper",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Snake Leyline ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMana Viper.png"
+			}
+		},
+		{
+			"name": "Living Vines",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Vines.png"
+			}
+		},
+		{
+			"name": "Taint the Ground",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Leyline Aura ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellTaint the Ground.png"
+			}
+		},
+		{
+			"name": "Scale the Walls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellScale the Walls.png"
+			}
+		},
+		{
+			"name": "Living Defiance",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Defiance.png"
+			}
+		},
+		{
+			"name": "Ordic Summons",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment Creature — Leyline ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOrdic Summons.png"
+			}
+		},
+		{
+			"name": "Arbiter of Hope",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellArbiter of Hope.png"
+			}
+		},
+		{
+			"name": "Angelic Speaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAngelic Speaker.png"
+			}
+		},
+		{
+			"name": "The Order's Accord",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThe Order's Accord.png"
+			}
+		},
+		{
+			"name": "The Oracles",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Creature — Sphinx ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThe Oracles.png"
+			}
+		},
+		{
+			"name": "Plummet Morale",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPlummet Morale.png"
+			}
+		},
+		{
+			"name": "Lezzotep's Harbinger",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Eldrazi Horror ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLezzotep's Harbinger.png"
+			}
+		},
+		{
+			"name": "Lezzotep's Negator",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLezzotep's Negator.png"
+			}
+		},
+		{
+			"name": "The Silencing",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThe Silencing.png"
+			}
+		},
+		{
+			"name": "Misdetonation",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMisdetonation.png"
+			}
+		},
+		{
+			"name": "Xaroth's Precious",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellXaroth's Precious.png"
+			}
+		},
+		{
+			"name": "Repelling Forces",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRepelling Forces.png"
+			}
+		},
+		{
+			"name": "Mileth, Saint Protector",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Legendary Creature — Angel ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMileth, Saint Protector.png"
+			}
+		},
+		{
+			"name": "Prophesized Awakening",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellProphesized Awakening.png"
+			}
+		},
+		{
+			"name": "Korynth, Awakened",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{U}{U}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellKorynth, Awakened.png"
+			}
+		},
+		{
+			"name": "Blasphemous Ritual",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellBlasphemous Ritual.png"
+			}
+		},
+		{
+			"name": "Xaroth, Lord of Dusktome",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellXaroth, Lord of Dusktome.png"
+			}
+		},
+		{
+			"name": "Living Perserverence",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Legendary Enchantment Creautre — Leyline ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Perserverence.png"
+			}
+		},
+		{
+			"name": "The Call from Beyond",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThe Call from Beyond.png"
+			}
+		},
+		{
+			"name": "Parse the Flow",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellParse the Flow.png"
+			}
+		},
+		{
+			"name": "Mindless Providence",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMindless Providence.png"
+			}
+		},
+		{
+			"name": "Living Sanctity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Sanctity.png"
+			}
+		},
+		{
+			"name": "Living Depravity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Depravity.png"
+			}
+		},
+		{
+			"name": "Zydark's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellZydark's Command.png"
+			}
+		},
+		{
+			"name": "Ailath's Perforator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAilath's Perforator.png"
+			}
+		},
+		{
+			"name": "Nalvethri Enchanter",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvethri Enchanter.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAcolyte of the Engine.png"
+			}
+		},
+		{
+			"name": "Droning Gibberer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Eldrazi Drone ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDroning Gibberer.png"
+			}
+		},
+		{
+			"name": "Undergrowth Scrounge",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Eldrazi ",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUndergrowth Scrounge.png"
+			}
+		},
+		{
+			"name": "Match the Frontlines",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMatch the Frontlines.png"
+			}
+		},
+		{
+			"name": "Living Luster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Luster.png"
+			}
+		},
+		{
+			"name": "Angelic Reinforcement",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAngelic Reinforcement.png"
+			}
+		},
+		{
+			"name": "Strenuous Alliance",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellStrenuous Alliance.png"
+			}
+		},
+		{
+			"name": "Living Carnage",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{R}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Carnage.png"
+			}
+		},
+		{
+			"name": "Beyond What Is Known",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellBeyond What Is Known.png"
+			}
+		},
+		{
+			"name": "Sarkt of Dusktome",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Vampire Artificer ",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSarkt of Dusktome.png"
+			}
+		},
+		{
+			"name": "Veil Capacitor",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVeil Capacitor.png"
+			}
+		},
+		{
+			"name": "Voidspawn Merger",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Enchantment Creature — Eldrazi Leyline ",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVoidspawn Merger.png"
+			}
+		},
+		{
+			"name": "Eldrazi Acolytes",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEldrazi Acolytes.png"
+			}
+		},
+		{
+			"name": "Living Growth",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Growth.png"
+			}
+		},
+		{
+			"name": "Weightstone",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWeightstone.png"
+			}
+		},
+		{
+			"name": "Nalvorn Sightring",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvorn Sightring.png"
+			}
+		},
+		{
+			"name": "Icon of Purity",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellIcon of Purity.png"
+			}
+		},
+		{
+			"name": "Icon of Perfection",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellIcon of Perfection.png"
+			}
+		},
+		{
+			"name": "Icon of Deception",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellIcon of Deception.png"
+			}
+		},
+		{
+			"name": "Prismatic Icon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPrismatic Icon.png"
+			}
+		},
+		{
+			"name": "Leyring Chain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Fabled Artifact — Leyline ",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyring Chain.png"
+			}
+		},
+		{
+			"name": "Monument to the Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Fabled Artifact — Leyline Shrine ",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMonument to the Engine.png"
+			}
+		},
+		{
+			"name": "Wyrmhunter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWyrmhunter.png"
+			}
+		},
+		{
+			"name": "Eldrazi Epithator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Kindred Artifact — Eldrazi ",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEldrazi Epithator.png"
+			}
+		},
+		{
+			"name": "Node Confluence",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNode Confluence.png"
+			}
+		},
+		{
+			"name": "Fetid Mire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFetid Mire.png"
+			}
+		},
+		{
+			"name": "Aquatic Maze",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAquatic Maze.png"
+			}
+		},
+		{
+			"name": "Wyvern's Lair",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWyvern's Lair.png"
+			}
+		},
+		{
+			"name": "Skyward Pavilion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSkyward Pavilion.png"
+			}
+		},
+		{
+			"name": "Overgrown Hulk",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOvergrown Hulk.png"
+			}
+		},
+		{
+			"name": "Defiler of Wills",
+			"rarity": "rare",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Eldrazi Leviathan ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDefiler of Wills.png"
+			}
+		},
+		{
+			"name": "Broodmother Esalesh",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Eldrazi ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellBroodmother Esalesh.png"
+			}
+		},
+		{
+			"name": "Eylara, Defender of Peace",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elf Druid ",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEylara, Defender of Peace.png"
+			}
+		},
+		{
+			"name": "Arvaeth, Land's Breath",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellArvaeth, Land's Breath.png"
+			}
+		},
+		{
+			"name": "Flint, the Hidden",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFlint, the Hidden.png"
+			}
+		},
+		{
+			"name": "Icon of Revels",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellIcon of Revels.png"
+			}
+		},
+		{
+			"name": "Icon of Savagery",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellIcon of Savagery.png"
+			}
+		},
+		{
+			"name": "Voidmother Zydark",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Eldrazi ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVoidmother Zydark.png"
+			}
+		},
+		{
+			"name": "Chaosmother Ailath",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Eldrazi ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellChaosmother Ailath.png"
+			}
+		},
+		{
+			"name": "Eldrazi Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Eldrazi Horror ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEldrazi Horror.png"
+			}
+		},
+		{
+			"name": "Hearth Baracks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellHearth Baracks.png"
+			}
+		},
+		{
+			"name": "Nalvethri Boilers",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvethri Boilers.png"
+			}
+		},
+		{
+			"name": "Dusktome Manor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDusktome Manor.png"
+			}
+		},
+		{
+			"name": "Seer's Well",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSeer's Well.png"
+			}
+		},
+		{
+			"name": "Vein Grave",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVein Grave.png"
+			}
+		},
+		{
+			"name": "Absorbed by the Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAbsorbed by the Engine.png"
+			}
+		},
+		{
+			"name": "Acolyte of Nalvethra",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Class ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAcolyte of Nalvethra.png"
+			}
+		},
+		{
+			"name": "Albrath Hunter-Spy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAlbrath Hunter-Spy.png"
+			}
+		},
+		{
+			"name": "Albrath Jailer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAlbrath Jailer.png"
+			}
+		},
+		{
+			"name": "Albrathi Prison",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAlbrathi Prison.png"
+			}
+		},
+		{
+			"name": "Angel of Rejection",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAngel of Rejection.png"
+			}
+		},
+		{
+			"name": "Angel of the Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAngel of the Engine.png"
+			}
+		},
+		{
+			"name": "Archon of Preservation",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellArchon of Preservation.png"
+			}
+		},
+		{
+			"name": "Ascension Engine",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAscension Engine.png"
+			}
+		},
+		{
+			"name": "Dusktome Dragon Engine",
+			"rarity": "rare",
+			"mana_cost": "{9}{W}{W}{W}",
+			"type": "Artifact Creature — Dragon Construct ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDusktome Dragon Engine.png"
+			}
+		},
+		{
+			"name": "Inciter of Rebellion",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment Creature — Leyline ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellInciter of Rebellion.png"
+			}
+		},
+		{
+			"name": "Investigate the Veins",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellInvestigate the Veins.png"
+			}
+		},
+		{
+			"name": "Leyline Converter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline Converter.png"
+			}
+		},
+		{
+			"name": "Leyline of Obedience",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline of Obedience.png"
+			}
+		},
+		{
+			"name": "Living Resolve",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Resolve.png"
+			}
+		},
+		{
+			"name": "Lost in the Veins",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLost in the Veins.png"
+			}
+		},
+		{
+			"name": "Loyal Hound",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dog ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLoyal Hound.png"
+			}
+		},
+		{
+			"name": "Nalvethri Eagle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvethri Eagle.png"
+			}
+		},
+		{
+			"name": "Nalvethri Healer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvethri Healer.png"
+			}
+		},
+		{
+			"name": "Navethri Fountain",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNavethri Fountain.png"
+			}
+		},
+		{
+			"name": "Node Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}",
+			"type": "Artifact Creature — Dragon Construct ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNode Dragon.png"
+			}
+		},
+		{
+			"name": "Order's Support",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOrder's Support.png"
+			}
+		},
+		{
+			"name": "Reinforced Doctrince",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellReinforced Doctrince.png"
+			}
+		},
+		{
+			"name": "Santified Reclamation",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSantified Reclamation.png"
+			}
+		},
+		{
+			"name": "Send to Oblivion",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSend to Oblivion.png"
+			}
+		},
+		{
+			"name": "Transference Drone",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellTransference Drone.png"
+			}
+		},
+		{
+			"name": "Vellin of House Narta",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVellin of House Narta.png"
+			}
+		},
+		{
+			"name": "Walking Foundry",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellWalking Foundry.png"
+			}
+		},
+		{
+			"name": "Energy Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEnergy Surge.png"
+			}
+		},
+		{
+			"name": "Flicker Hound",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Hound ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFlicker Hound.png"
+			}
+		},
+		{
+			"name": "Forbidden Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellForbidden Knowledge.png"
+			}
+		},
+		{
+			"name": "Forge Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellForge Guard.png"
+			}
+		},
+		{
+			"name": "Illusory Flight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellIllusory Flight.png"
+			}
+		},
+		{
+			"name": "Knowledge of the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellKnowledge of the Unknown.png"
+			}
+		},
+		{
+			"name": "Korynth, Of the Order",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Legendary Creautre — Human Shaman",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellKorynth, Of the Order.png"
+			}
+		},
+		{
+			"name": "Leyline Crab",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Crab Elemental ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline Crab.png"
+			}
+		},
+		{
+			"name": "Leyline Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Dragon ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline Dragon.png"
+			}
+		},
+		{
+			"name": "Leyline of Adaption",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline of Adaption.png"
+			}
+		},
+		{
+			"name": "Living Echo",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Echo.png"
+			}
+		},
+		{
+			"name": "Lumendrial Observatory",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLumendrial Observatory.png"
+			}
+		},
+		{
+			"name": "Lumendrial Rider",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Bird ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLumendrial Rider.png"
+			}
+		},
+		{
+			"name": "Minor Blip",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMinor Blip.png"
+			}
+		},
+		{
+			"name": "Node Oracle",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Vedalken Wizard ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNode Oracle.png"
+			}
+		},
+		{
+			"name": "Oracle of Lumendrial",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Class ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOracle of Lumendrial.png"
+			}
+		},
+		{
+			"name": "Order from Beyond",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellOrder from Beyond.png"
+			}
+		},
+		{
+			"name": "Peer into Oblivion",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPeer into Oblivion.png"
+			}
+		},
+		{
+			"name": "Political Safety",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPolitical Safety.png"
+			}
+		},
+		{
+			"name": "Protector of the Veil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellProtector of the Veil.png"
+			}
+		},
+		{
+			"name": "Reduce to Foundations",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellReduce to Foundations.png"
+			}
+		},
+		{
+			"name": "Search the Unseen",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSearch the Unseen.png"
+			}
+		},
+		{
+			"name": "Shaman of Endless Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellShaman of Endless Dreams.png"
+			}
+		},
+		{
+			"name": "Snap Away",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSnap Away.png"
+			}
+		},
+		{
+			"name": "Sphinx of the Council",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Sphinx ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSphinx of the Council.png"
+			}
+		},
+		{
+			"name": "Sucked Beyond the Veil",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSucked Beyond the Veil.png"
+			}
+		},
+		{
+			"name": "Veil Engine",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVeil Engine.png"
+			}
+		},
+		{
+			"name": "Vortex Unifier",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVortex Unifier.png"
+			}
+		},
+		{
+			"name": "Artificer of Dusktome",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Class ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellArtificer of Dusktome.png"
+			}
+		},
+		{
+			"name": "Delegation of the Void",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDelegation of the Void.png"
+			}
+		},
+		{
+			"name": "Divine the Machine",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDivine the Machine.png"
+			}
+		},
+		{
+			"name": "Divining Wyrm",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Creature — Dragon ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDivining Wyrm.png"
+			}
+		},
+		{
+			"name": "Dusktome Executioner",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie Sphinx ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDusktome Executioner.png"
+			}
+		},
+		{
+			"name": "Encarcerate",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEncarcerate.png"
+			}
+		},
+		{
+			"name": "Force Undeath",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellForce Undeath.png"
+			}
+		},
+		{
+			"name": "Grudge Holder",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Minotaur ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellGrudge Holder.png"
+			}
+		},
+		{
+			"name": "Leyline of Abscence",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline of Abscence.png"
+			}
+		},
+		{
+			"name": "Leyline Sapper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Snake ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline Sapper.png"
+			}
+		},
+		{
+			"name": "Leyring Scuttler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyring Scuttler.png"
+			}
+		},
+		{
+			"name": "Living Hatred",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Hatred.png"
+			}
+		},
+		{
+			"name": "Living Violence",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Violence.png"
+			}
+		},
+		{
+			"name": "RB04—Lose Condition",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRB04—Lose Condition.png"
+			}
+		},
+		{
+			"name": "RB05—Discard",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRB05—Discard.png"
+			}
+		},
+		{
+			"name": "Reinstate Control",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellReinstate Control.png"
+			}
+		},
+		{
+			"name": "Resonance Engine",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellResonance Engine.png"
+			}
+		},
+		{
+			"name": "Returned Trudger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellReturned Trudger.png"
+			}
+		},
+		{
+			"name": "Ryvok's Betrayal",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRyvok's Betrayal.png"
+			}
+		},
+		{
+			"name": "Seep from Beyond",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSeep from Beyond.png"
+			}
+		},
+		{
+			"name": "Soul Eviscerate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSoul Eviscerate.png"
+			}
+		},
+		{
+			"name": "Soul Reaver",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSoul Reaver.png"
+			}
+		},
+		{
+			"name": "UB03—Reanimate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUB03—Reanimate.png"
+			}
+		},
+		{
+			"name": "UB05—Sacrifice",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUB05—Sacrifice.png"
+			}
+		},
+		{
+			"name": "UB07—Ferocious",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUB07—Ferocious.png"
+			}
+		},
+		{
+			"name": "UB08—Murder",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUB08—Murder.png"
+			}
+		},
+		{
+			"name": "Velin's Spies",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Snake Construct ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVelin's Spies.png"
+			}
+		},
+		{
+			"name": "Xaroth, Master of Metal",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Demon Advisor ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellXaroth, Master of Metal.png"
+			}
+		},
+		{
+			"name": "CR01—Leyline",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR01—Leyline.png"
+			}
+		},
+		{
+			"name": "CR02—Haste",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR02—Haste.png"
+			}
+		},
+		{
+			"name": "CR03—Burn",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR03—Burn.png"
+			}
+		},
+		{
+			"name": "CR05—Resonance",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR05—Resonance.png"
+			}
+		},
+		{
+			"name": "CR06—Double Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR06—Double Strike.png"
+			}
+		},
+		{
+			"name": "CR07—Rummage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR07—Rummage.png"
+			}
+		},
+		{
+			"name": "CR08—Menace",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR08—Menace.png"
+			}
+		},
+		{
+			"name": "CR09—Ferocious",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR09—Ferocious.png"
+			}
+		},
+		{
+			"name": "CR10—Steal",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR10—Steal.png"
+			}
+		},
+		{
+			"name": "CR11—Aura",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR11—Aura.png"
+			}
+		},
+		{
+			"name": "CR12—Trample",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCR12—Trample.png"
+			}
+		},
+		{
+			"name": "Living Spite",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Spite.png"
+			}
+		},
+		{
+			"name": "Living Volitility",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Volitility.png"
+			}
+		},
+		{
+			"name": "MR02—Burn Spell",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMR02—Burn Spell.png"
+			}
+		},
+		{
+			"name": "RR02—First Strike",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRR02—First Strike.png"
+			}
+		},
+		{
+			"name": "RR03—Card Draw",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRR03—Card Draw.png"
+			}
+		},
+		{
+			"name": "RR04—Shatter Storm",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRR04—Shatter Storm.png"
+			}
+		},
+		{
+			"name": "RR05—Keyword Giver",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRR05—Keyword Giver.png"
+			}
+		},
+		{
+			"name": "Ryvok, Deepnode Rebel",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Elf Rebel ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRyvok, Deepnode Rebel.png"
+			}
+		},
+		{
+			"name": "Traitor of Laithell",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment — Class ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellTraitor of Laithell.png"
+			}
+		},
+		{
+			"name": "Traitorblood Drake",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellTraitorblood Drake.png"
+			}
+		},
+		{
+			"name": "UR01—Rummage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Goblin ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR01—Rummage.png"
+			}
+		},
+		{
+			"name": "UR02—Trample",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR02—Trample.png"
+			}
+		},
+		{
+			"name": "UR03—Haste",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Creature — Elemental ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR03—Haste.png"
+			}
+		},
+		{
+			"name": "UR04—Ritual Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR04—Ritual Dragon.png"
+			}
+		},
+		{
+			"name": "UR06—Flashback",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR06—Flashback.png"
+			}
+		},
+		{
+			"name": "UR07—Steal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR07—Steal.png"
+			}
+		},
+		{
+			"name": "UR08—Team Pump",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUR08—Team Pump.png"
+			}
+		},
+		{
+			"name": "CG01—Leyline",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG01—Leyline.png"
+			}
+		},
+		{
+			"name": "CG02—Resonance",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG02—Resonance.png"
+			}
+		},
+		{
+			"name": "CG03—Cantrip",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG03—Cantrip.png"
+			}
+		},
+		{
+			"name": "CG04—Trample",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG04—Trample.png"
+			}
+		},
+		{
+			"name": "CG05—Plummet",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG05—Plummet.png"
+			}
+		},
+		{
+			"name": "CG06—Deathtouch",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG06—Deathtouch.png"
+			}
+		},
+		{
+			"name": "CG07—Hexproof",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG07—Hexproof.png"
+			}
+		},
+		{
+			"name": "CG08—Ramp",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG08—Ramp.png"
+			}
+		},
+		{
+			"name": "CG09—Reach Deathtouch",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG09—Reach Deathtouch.png"
+			}
+		},
+		{
+			"name": "CG11—Mana Dork",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG11—Mana Dork.png"
+			}
+		},
+		{
+			"name": "CG12—Instant Buff",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellCG12—Instant Buff.png"
+			}
+		},
+		{
+			"name": "Eylara, Animist of the Order",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elf Druid ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEylara, Animist of the Order.png"
+			}
+		},
+		{
+			"name": "Living Growth",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Fabled Instant — Leyline ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Growth.png"
+			}
+		},
+		{
+			"name": "Mana Charger",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Enchantment Creature — Leyline Beast ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMana Charger.png"
+			}
+		},
+		{
+			"name": "MG01—Leylines",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMG01—Leylines.png"
+			}
+		},
+		{
+			"name": "Nanny Myrtle",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNanny Myrtle.png"
+			}
+		},
+		{
+			"name": "Rebellion Guard",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRebellion Guard.png"
+			}
+		},
+		{
+			"name": "Restore the Balance",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRestore the Balance.png"
+			}
+		},
+		{
+			"name": "RG04—Flying",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dragon ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRG04—Flying.png"
+			}
+		},
+		{
+			"name": "Soaring Gigantowyrm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Enchantment Creature — Dragon ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSoaring Gigantowyrm.png"
+			}
+		},
+		{
+			"name": "Survivor of the Veins",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Class ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSurvivor of the Veins.png"
+			}
+		},
+		{
+			"name": "They Come From the Veins",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThey Come From the Veins.png"
+			}
+		},
+		{
+			"name": "UG01—Leyline Creature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Leyline ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUG01—Leyline Creature.png"
+			}
+		},
+		{
+			"name": "UG02—Cantrip",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUG02—Cantrip.png"
+			}
+		},
+		{
+			"name": "UG03—Resonance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUG03—Resonance.png"
+			}
+		},
+		{
+			"name": "UG05—Deathtouch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bat ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUG05—Deathtouch.png"
+			}
+		},
+		{
+			"name": "UG08—Ferocious",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellUG08—Ferocious.png"
+			}
+		},
+		{
+			"name": "Arvaeth Kor, Survivalist",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellArvaeth Kor, Survivalist.png"
+			}
+		},
+		{
+			"name": "Betrayal of the Flesh",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellBetrayal of the Flesh.png"
+			}
+		},
+		{
+			"name": "Dusktome Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Artificer Rogue ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDusktome Inventor.png"
+			}
+		},
+		{
+			"name": "Eylara, Of Talis' Burden",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Human  Druid ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEylara, Of Talis' Burden.png"
+			}
+		},
+		{
+			"name": "Flint, the Trickster",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellFlint, the Trickster.png"
+			}
+		},
+		{
+			"name": "Leyline of Industry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline of Industry.png"
+			}
+		},
+		{
+			"name": "Leymage Elemental",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Elemental Druid ",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeymage Elemental.png"
+			}
+		},
+		{
+			"name": "Living Summons",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{U}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Summons.png"
+			}
+		},
+		{
+			"name": "Living Wrath",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{U}{U}",
+			"type": "Fabled Sorcery — Leyline ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLiving Wrath.png"
+			}
+		},
+		{
+			"name": "Lumendrial Thopter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLumendrial Thopter.png"
+			}
+		},
+		{
+			"name": "Meran Iloon, Aritifcer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Human Artificer ",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMeran Iloon, Aritifcer.png"
+			}
+		},
+		{
+			"name": "Nalvorn Shattermage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Artifact Creature — Vedalken ",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvorn Shattermage.png"
+			}
+		},
+		{
+			"name": "Node Raid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNode Raid.png"
+			}
+		},
+		{
+			"name": "Priest of Nalvess",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPriest of Nalvess.png"
+			}
+		},
+		{
+			"name": "Primal Resurgence",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Instant",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellPrimal Resurgence.png"
+			}
+		},
+		{
+			"name": "The Prismatic Leyline",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Enchantment Creature — Leyline  ",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThe Prismatic Leyline.png"
+			}
+		},
+		{
+			"name": "Raiser of the Waves",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Merfolk Shaman ",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRaiser of the Waves.png"
+			}
+		},
+		{
+			"name": "Rebellious Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRebellious Fury.png"
+			}
+		},
+		{
+			"name": "Rebellious Reclamation",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRebellious Reclamation.png"
+			}
+		},
+		{
+			"name": "Ryvok Shatters the Seal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRyvok Shatters the Seal.png"
+			}
+		},
+		{
+			"name": "Ryvok, Subjugated Rebel",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Human Eldrazi ",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellRyvok, Subjugated Rebel.png"
+			}
+		},
+		{
+			"name": "Sanctuary Leyline",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSanctuary Leyline.png"
+			}
+		},
+		{
+			"name": "Soaring Exterminator",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Artifact Creature — Demon Dragon ",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellSoaring Exterminator.png"
+			}
+		},
+		{
+			"name": "Albrath Manacore",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAlbrath Manacore.png"
+			}
+		},
+		{
+			"name": "Bone Reaver",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellBone Reaver.png"
+			}
+		},
+		{
+			"name": "The Engine of Eternity",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Fabled Artifact — Leyline ",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellThe Engine of Eternity.png"
+			}
+		},
+		{
+			"name": "Impulse Gauntlet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellImpulse Gauntlet.png"
+			}
+		},
+		{
+			"name": "Insurgence Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellInsurgence Blade.png"
+			}
+		},
+		{
+			"name": "Leyline Crossroads",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Enchantment — Leyline ",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline Crossroads.png"
+			}
+		},
+		{
+			"name": "Mana Tap",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellMana Tap.png"
+			}
+		},
+		{
+			"name": "Nalvorn Leyring",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvorn Leyring.png"
+			}
+		},
+		{
+			"name": "Nodeseeker's Bauble",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNodeseeker's Bauble.png"
+			}
+		},
+		{
+			"name": "Reconnaissance Drone",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellReconnaissance Drone.png"
+			}
+		},
+		{
+			"name": "Albrath, Of Ivory Towers",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellAlbrath, Of Ivory Towers.png"
+			}
+		},
+		{
+			"name": "Dusktome, Of Metallic Spires",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDusktome, Of Metallic Spires.png"
+			}
+		},
+		{
+			"name": "Embershade Refuge",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellEmbershade Refuge.png"
+			}
+		},
+		{
+			"name": "Forge City",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellForge City.png"
+			}
+		},
+		{
+			"name": "Lumendrial, Of the Absolute",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLumendrial, Of the Absolute.png"
+			}
+		},
+		{
+			"name": "Nalvethra, the Shimmering City",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNalvethra, the Shimmering City.png"
+			}
+		},
+		{
+			"name": "Node Enclave",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellNode Enclave.png"
+			}
+		},
+		{
+			"name": "Vein Encampment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellVein Encampment.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellDemon.png"
+			}
+		},
+		{
+			"name": "Leyline",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Enchantment — Leyline ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellLeyline.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Slugcatsam/mse/main/laithellElemental.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Living Defiance
+		2 Ordic Summons
+		2 Arbiter of Hope
+		2 Angelic Speaker
+		2 The Order's Accord
+		2 The Oracles
+		2 Plummet Morale
+		2 Lezzotep's Harbinger
+		2 Lezzotep's Negator
+		2 The Silencing
+		2 Misdetonation
+		2 Xaroth's Precious
+		2 Angelic Reinforcement
+		2 Strenuous Alliance
+		2 Living Carnage
+		2 Beyond What Is Known
+		2 Sarkt of Dusktome
+		2 Veil Capacitor
+		2 Voidspawn Merger
+		2 Eldrazi Acolytes
+		2 Living Growth
+		2 Defiler of Wills
+		2 Broodmother Esalesh
+		2 Eylara, Defender of Peace
+		2 Arvaeth, Land's Breath
+		2 Flint, the Hidden
+		2 Voidmother Zydark
+		2 Chaosmother Ailath
+		2 Acolyte of Nalvethra
+		2 Angel of Rejection
+		2 Ascension Engine
+		2 Dusktome Dragon Engine
+		2 Inciter of Rebellion
+		2 Vellin of House Narta
+		2 Forbidden Knowledge
+		2 Korynth, Of the Order
+		2 Oracle of Lumendrial
+		2 Political Safety
+		2 Sucked Beyond the Veil
+		2 Veil Engine
+		2 Artificer of Dusktome
+		2 RB04—Lose Condition
+		2 RB05—Discard
+		2 Seep from Beyond
+		2 Xaroth, Master of Metal
+		2 RR02—First Strike
+		2 RR03—Card Draw
+		2 RR04—Shatter Storm
+		2 RR05—Keyword Giver
+		2 Ryvok, Deepnode Rebel
+		2 Living Growth
+		2 Nanny Myrtle
+		2 Restore the Balance
+		2 RG04—Flying
+		2 Arvaeth Kor, Survivalist
+		2 Betrayal of the Flesh
+		2 Eylara, Of Talis' Burden
+		2 Flint, the Trickster
+		2 Leymage Elemental
+		2 Living Wrath
+		2 Nalvorn Shattermage
+		2 Priest of Nalvess
+		2 Raiser of the Waves
+		2 Rebellious Reclamation
+		2 Soaring Exterminator
+		1 The Fracturing
+		1 Repelling Forces
+		1 Mileth, Saint Protector
+		1 Prophesized Awakening
+		1 Korynth, Awakened
+		1 Blasphemous Ritual
+		1 Xaroth, Lord of Dusktome
+		1 Living Perserverence
+		1 The Call from Beyond
+		1 Parse the Flow
+		1 Mindless Providence
+		1 Archon of Preservation
+		1 Santified Reclamation
+		1 Lumendrial Observatory
+		1 Sphinx of the Council
+		1 Delegation of the Void
+		1 Dusktome Executioner
+		1 Living Hatred
+		1 MR02—Burn Spell
+		1 Traitorblood Drake
+		1 Mana Charger
+		1 MG01—Leylines
+		1 Meran Iloon, Aritifcer
+		1 The Prismatic Leyline
+		1 Ryvok, Subjugated Rebel
+		1 The Engine of Eternity
+		1 Albrath, Of Ivory Towers
+		1 Dusktome, Of Metallic Spires
+		1 Embershade Refuge
+		1 Lumendrial, Of the Absolute
+		1 Nalvethra, the Shimmering City
+		[UncommonSlot(4)]
+	9 Leyring Bind
+		9 Order's Purifier
+		9 Pollutor of Faith
+		9 Realmguard
+		9 Maddening Drone
+		9 Desperate Call
+		9 Seeplands
+		9 Commune with the Engine
+		9 Lezzotep's Spies
+		9 Void Chainer
+		9 Leyline Veil
+		9 Korynth's Accordance
+		9 Offering to the Councils
+		9 Curse of Memory
+		9 Fill the Gaps
+		9 Flint's Heist
+		9 Slickshifter
+		9 Forcefell
+		9 Warped Plains
+		9 Rot Dragon
+		9 Knowledge of Bidden
+		9 Voidpass Instigator
+		9 Pyredrake
+		9 Twin Born Monstrosity
+		9 Living Chaos
+		9 Arvaeth's Retort
+		9 UR06—Dissolve
+		9 Nalvethri Highdruid
+		9 Graft Bearer
+		9 Stomping Heavyfoot
+		9 Fascinated Researcher
+		9 Mana Viper
+		9 Living Vines
+		9 Taint the Ground
+		9 Scale the Walls
+		9 Living Sanctity
+		9 Living Depravity
+		9 Zydark's Command
+		9 Ailath's Perforator
+		9 Nalvethri Enchanter
+		9 Acolyte of the Engine
+		9 Droning Gibberer
+		9 Undergrowth Scrounge
+		9 Match the Frontlines
+		9 Living Luster
+		9 Prismatic Icon
+		9 Leyring Chain
+		9 Monument to the Engine
+		9 Wyrmhunter
+		9 Eldrazi Epithator
+		9 Fetid Mire
+		9 Aquatic Maze
+		9 Wyvern's Lair
+		9 Skyward Pavilion
+		9 Overgrown Hulk
+		9 Absorbed by the Engine
+		9 Albrathi Prison
+		9 Angel of the Engine
+		9 Nalvethri Eagle
+		9 Navethri Fountain
+		9 Node Dragon
+		9 Order's Support
+		9 Walking Foundry
+		9 Energy Surge
+		9 Flicker Hound
+		9 Illusory Flight
+		9 Knowledge of the Unknown
+		9 Leyline Dragon
+		9 Minor Blip
+		9 Protector of the Veil
+		9 Shaman of Endless Dreams
+		9 Snap Away
+		9 Leyring Scuttler
+		9 Living Violence
+		9 Reinstate Control
+		9 UB03—Reanimate
+		9 UB05—Sacrifice
+		9 UB07—Ferocious
+		9 UB08—Murder
+		9 Velin's Spies
+		9 Living Volitility
+		9 Traitor of Laithell
+		9 UR01—Rummage
+		9 UR02—Trample
+		9 UR03—Haste
+		9 UR04—Ritual Dragon
+		9 UR06—Flashback
+		9 UR07—Steal
+		9 UR08—Team Pump
+		9 Eylara, Animist of the Order
+		9 Soaring Gigantowyrm
+		9 Survivor of the Veins
+		9 They Come From the Veins
+		9 UG01—Leyline Creature
+		9 UG02—Cantrip
+		9 UG03—Resonance
+		9 UG05—Deathtouch
+		9 UG08—Ferocious
+		9 Dusktome Inventor
+		9 Leyline of Industry
+		9 Living Summons
+		9 Lumendrial Thopter
+		9 Node Raid
+		9 Primal Resurgence
+		9 Rebellious Fury
+		9 Ryvok Shatters the Seal
+		9 Sanctuary Leyline
+		[CommonSlot(10)]
+	30 Return from Whence
+		30 Sacred Nexus
+		30 Ordained Guard
+		30 Magistrate Binding
+		30 Frontline Bastioneer
+		30 Radiant Scutterer
+		30 Rune of Valliance
+		30 Communitive Wave
+		30 High Clergy Suturer
+		30 Ordic Manipulator
+		30 Living Ward
+		30 Mindless Seiger
+		30 Sky Scourer
+		30 Influx Fields
+		30 Sleight Runner
+		30 Living Skew
+		30 Messenger Crow
+		30 Lumendri Infultrator
+		30 Meren's Rebuff
+		30 Nodemage Guard
+		30 In Violation of Nature
+		30 Search the Nexi
+		30 On Brilliant Wings
+		30 Uri's Return
+		30 Zydark's Processor
+		30 Cemetery Passage
+		30 Living Stain
+		30 CB04 — Devoid Dork
+		30 Cursed to Death
+		30 Vein Scutterer
+		30 Influence of Zydark
+		30 Mazetop Slitherer
+		30 Purge the Meek
+		30 Cursed Sight
+		30 Return to Naught
+		30 Asylum Guard
+		30 Warp Crawler
+		30 Explosive Confluence
+		30 Null Brawler
+		30 Chaser of Ailath
+		30 Old World Apothecary
+		30 Loxodon Pursecutor
+		30 Node Highlander
+		30 Rage of Ailath
+		30 Paint the Battlefield
+		30 Unnerving Delerium
+		30 Living Passion
+		30 Unseeing Fury
+		30 Blind Scouring
+		30 Mana Garden
+		30 Living Propagation
+		30 Grafted Strength
+		30 Wreathdrake
+		30 Wurm Guardian
+		30 Blightipede
+		30 Vines of Esalesh
+		30 Manapath Diffuser
+		30 Living Rot
+		30 Crusher of Esalesh
+		30 Vineseep Bearer
+		30 Weightstone
+		30 Nalvorn Sightring
+		30 Icon of Purity
+		30 Icon of Perfection
+		30 Icon of Deception
+		30 Node Confluence
+		30 Icon of Revels
+		30 Icon of Savagery
+		30 Hearth Baracks
+		30 Nalvethri Boilers
+		30 Dusktome Manor
+		30 Seer's Well
+		30 Vein Grave
+		30 Albrath Hunter-Spy
+		30 Albrath Jailer
+		30 Investigate the Veins
+		30 Leyline Converter
+		30 Leyline of Obedience
+		30 Living Resolve
+		30 Lost in the Veins
+		30 Loyal Hound
+		30 Nalvethri Healer
+		30 Reinforced Doctrince
+		30 Send to Oblivion
+		30 Transference Drone
+		30 Forge Guard
+		30 Leyline Crab
+		30 Leyline of Adaption
+		30 Living Echo
+		30 Lumendrial Rider
+		30 Node Oracle
+		30 Order from Beyond
+		30 Peer into Oblivion
+		30 Reduce to Foundations
+		30 Search the Unseen
+		30 Vortex Unifier
+		30 Divine the Machine
+		30 Divining Wyrm
+		30 Encarcerate
+		30 Force Undeath
+		30 Grudge Holder
+		30 Leyline of Abscence
+		30 Leyline Sapper
+		30 Resonance Engine
+		30 Returned Trudger
+		30 Ryvok's Betrayal
+		30 Soul Eviscerate
+		30 Soul Reaver
+		30 CR01—Leyline
+		30 CR02—Haste
+		30 CR03—Burn
+		30 CR05—Resonance
+		30 CR06—Double Strike
+		30 CR07—Rummage
+		30 CR08—Menace
+		30 CR09—Ferocious
+		30 CR10—Steal
+		30 CR11—Aura
+		30 CR12—Trample
+		30 Living Spite
+		30 CG01—Leyline
+		30 CG02—Resonance
+		30 CG03—Cantrip
+		30 CG04—Trample
+		30 CG05—Plummet
+		30 CG06—Deathtouch
+		30 CG07—Hexproof
+		30 CG08—Ramp
+		30 CG09—Reach Deathtouch
+		30 CG11—Mana Dork
+		30 CG12—Instant Buff
+		30 Rebellion Guard
+		30 Albrath Manacore
+		30 Bone Reaver
+		30 Impulse Gauntlet
+		30 Insurgence Blade
+		30 Leyline Crossroads
+		30 Mana Tap
+		30 Nalvorn Leyring
+		30 Nodeseeker's Bauble
+		30 Reconnaissance Drone
+		30 Forge City
+		30 Node Enclave
+		30 Vein Encampment
+		[WildcardSlot(1)]
+	10 The Fracturing
+	10 Return from Whence
+	10 Sacred Nexus
+	10 Ordained Guard
+	10 Magistrate Binding
+	10 Frontline Bastioneer
+	10 Radiant Scutterer
+	10 Rune of Valliance
+	10 Communitive Wave
+	10 High Clergy Suturer
+	10 Ordic Manipulator
+	10 Living Ward
+	10 Mindless Seiger
+	10 Sky Scourer
+	10 Influx Fields
+	10 Sleight Runner
+	10 Living Skew
+	10 Messenger Crow
+	10 Lumendri Infultrator
+	10 Meren's Rebuff
+	10 Nodemage Guard
+	10 In Violation of Nature
+	10 Search the Nexi
+	10 On Brilliant Wings
+	10 Uri's Return
+	10 Zydark's Processor
+	10 Cemetery Passage
+	10 Living Stain
+	10 CB04 — Devoid Dork
+	10 Cursed to Death
+	10 Vein Scutterer
+	10 Influence of Zydark
+	10 Mazetop Slitherer
+	10 Purge the Meek
+	10 Cursed Sight
+	10 Return to Naught
+	10 Asylum Guard
+	10 Warp Crawler
+	10 Explosive Confluence
+	10 Null Brawler
+	10 Chaser of Ailath
+	10 Old World Apothecary
+	10 Loxodon Pursecutor
+	10 Node Highlander
+	10 Rage of Ailath
+	10 Paint the Battlefield
+	10 Unnerving Delerium
+	10 Living Passion
+	10 Unseeing Fury
+	10 Blind Scouring
+	10 Mana Garden
+	10 Living Propagation
+	10 Grafted Strength
+	10 Wreathdrake
+	10 Wurm Guardian
+	10 Blightipede
+	10 Vines of Esalesh
+	10 Manapath Diffuser
+	10 Living Rot
+	10 Crusher of Esalesh
+	10 Vineseep Bearer
+	10 Leyring Bind
+	10 Order's Purifier
+	10 Pollutor of Faith
+	10 Realmguard
+	10 Maddening Drone
+	10 Desperate Call
+	10 Seeplands
+	10 Commune with the Engine
+	10 Lezzotep's Spies
+	10 Void Chainer
+	10 Leyline Veil
+	10 Korynth's Accordance
+	10 Offering to the Councils
+	10 Curse of Memory
+	10 Fill the Gaps
+	10 Flint's Heist
+	10 Slickshifter
+	10 Forcefell
+	10 Warped Plains
+	10 Rot Dragon
+	10 Knowledge of Bidden
+	10 Voidpass Instigator
+	10 Pyredrake
+	10 Twin Born Monstrosity
+	10 Living Chaos
+	10 Arvaeth's Retort
+	10 UR06—Dissolve
+	10 Nalvethri Highdruid
+	10 Graft Bearer
+	10 Stomping Heavyfoot
+	10 Fascinated Researcher
+	10 Mana Viper
+	10 Living Vines
+	10 Taint the Ground
+	10 Scale the Walls
+	10 Living Defiance
+	10 Ordic Summons
+	10 Arbiter of Hope
+	10 Angelic Speaker
+	10 The Order's Accord
+	10 The Oracles
+	10 Plummet Morale
+	10 Lezzotep's Harbinger
+	10 Lezzotep's Negator
+	10 The Silencing
+	10 Misdetonation
+	10 Xaroth's Precious
+	10 Repelling Forces
+	10 Mileth, Saint Protector
+	10 Prophesized Awakening
+	10 Korynth, Awakened
+	10 Blasphemous Ritual
+	10 Xaroth, Lord of Dusktome
+	10 Living Perserverence
+	10 The Call from Beyond
+	10 Parse the Flow
+	10 Mindless Providence
+	10 Living Sanctity
+	10 Living Depravity
+	10 Zydark's Command
+	10 Ailath's Perforator
+	10 Nalvethri Enchanter
+	10 Acolyte of the Engine
+	10 Droning Gibberer
+	10 Undergrowth Scrounge
+	10 Match the Frontlines
+	10 Living Luster
+	10 Angelic Reinforcement
+	10 Strenuous Alliance
+	10 Living Carnage
+	10 Beyond What Is Known
+	10 Sarkt of Dusktome
+	10 Veil Capacitor
+	10 Voidspawn Merger
+	10 Eldrazi Acolytes
+	10 Living Growth
+	10 Weightstone
+	10 Nalvorn Sightring
+	10 Icon of Purity
+	10 Icon of Perfection
+	10 Icon of Deception
+	10 Prismatic Icon
+	10 Leyring Chain
+	10 Monument to the Engine
+	10 Wyrmhunter
+	10 Eldrazi Epithator
+	10 Node Confluence
+	10 Fetid Mire
+	10 Aquatic Maze
+	10 Wyvern's Lair
+	10 Skyward Pavilion
+	10 Overgrown Hulk
+	10 Defiler of Wills
+	10 Broodmother Esalesh
+	10 Eylara, Defender of Peace
+	10 Arvaeth, Land's Breath
+	10 Flint, the Hidden
+	10 Icon of Revels
+	10 Icon of Savagery
+	10 Voidmother Zydark
+	10 Chaosmother Ailath
+	10 Hearth Baracks
+	10 Nalvethri Boilers
+	10 Dusktome Manor
+	10 Seer's Well
+	10 Vein Grave
+	10 Absorbed by the Engine
+	10 Acolyte of Nalvethra
+	10 Albrath Hunter-Spy
+	10 Albrath Jailer
+	10 Albrathi Prison
+	10 Angel of Rejection
+	10 Angel of the Engine
+	10 Archon of Preservation
+	10 Ascension Engine
+	10 Dusktome Dragon Engine
+	10 Inciter of Rebellion
+	10 Investigate the Veins
+	10 Leyline Converter
+	10 Leyline of Obedience
+	10 Living Resolve
+	10 Lost in the Veins
+	10 Loyal Hound
+	10 Nalvethri Eagle
+	10 Nalvethri Healer
+	10 Navethri Fountain
+	10 Node Dragon
+	10 Order's Support
+	10 Reinforced Doctrince
+	10 Santified Reclamation
+	10 Send to Oblivion
+	10 Transference Drone
+	10 Vellin of House Narta
+	10 Walking Foundry
+	10 Energy Surge
+	10 Flicker Hound
+	10 Forbidden Knowledge
+	10 Forge Guard
+	10 Illusory Flight
+	10 Knowledge of the Unknown
+	10 Korynth, Of the Order
+	10 Leyline Crab
+	10 Leyline Dragon
+	10 Leyline of Adaption
+	10 Living Echo
+	10 Lumendrial Observatory
+	10 Lumendrial Rider
+	10 Minor Blip
+	10 Node Oracle
+	10 Oracle of Lumendrial
+	10 Order from Beyond
+	10 Peer into Oblivion
+	10 Political Safety
+	10 Protector of the Veil
+	10 Reduce to Foundations
+	10 Search the Unseen
+	10 Shaman of Endless Dreams
+	10 Snap Away
+	10 Sphinx of the Council
+	10 Sucked Beyond the Veil
+	10 Veil Engine
+	10 Vortex Unifier
+	10 Artificer of Dusktome
+	10 Delegation of the Void
+	10 Divine the Machine
+	10 Divining Wyrm
+	10 Dusktome Executioner
+	10 Encarcerate
+	10 Force Undeath
+	10 Grudge Holder
+	10 Leyline of Abscence
+	10 Leyline Sapper
+	10 Leyring Scuttler
+	10 Living Hatred
+	10 Living Violence
+	10 RB04—Lose Condition
+	10 RB05—Discard
+	10 Reinstate Control
+	10 Resonance Engine
+	10 Returned Trudger
+	10 Ryvok's Betrayal
+	10 Seep from Beyond
+	10 Soul Eviscerate
+	10 Soul Reaver
+	10 UB03—Reanimate
+	10 UB05—Sacrifice
+	10 UB07—Ferocious
+	10 UB08—Murder
+	10 Velin's Spies
+	10 Xaroth, Master of Metal
+	10 CR01—Leyline
+	10 CR02—Haste
+	10 CR03—Burn
+	10 CR05—Resonance
+	10 CR06—Double Strike
+	10 CR07—Rummage
+	10 CR08—Menace
+	10 CR09—Ferocious
+	10 CR10—Steal
+	10 CR11—Aura
+	10 CR12—Trample
+	10 Living Spite
+	10 Living Volitility
+	10 MR02—Burn Spell
+	10 RR02—First Strike
+	10 RR03—Card Draw
+	10 RR04—Shatter Storm
+	10 RR05—Keyword Giver
+	10 Ryvok, Deepnode Rebel
+	10 Traitor of Laithell
+	10 Traitorblood Drake
+	10 UR01—Rummage
+	10 UR02—Trample
+	10 UR03—Haste
+	10 UR04—Ritual Dragon
+	10 UR06—Flashback
+	10 UR07—Steal
+	10 UR08—Team Pump
+	10 CG01—Leyline
+	10 CG02—Resonance
+	10 CG03—Cantrip
+	10 CG04—Trample
+	10 CG05—Plummet
+	10 CG06—Deathtouch
+	10 CG07—Hexproof
+	10 CG08—Ramp
+	10 CG09—Reach Deathtouch
+	10 CG11—Mana Dork
+	10 CG12—Instant Buff
+	10 Eylara, Animist of the Order
+	10 Living Growth
+	10 Mana Charger
+	10 MG01—Leylines
+	10 Nanny Myrtle
+	10 Rebellion Guard
+	10 Restore the Balance
+	10 RG04—Flying
+	10 Soaring Gigantowyrm
+	10 Survivor of the Veins
+	10 They Come From the Veins
+	10 UG01—Leyline Creature
+	10 UG02—Cantrip
+	10 UG03—Resonance
+	10 UG05—Deathtouch
+	10 UG08—Ferocious
+	10 Arvaeth Kor, Survivalist
+	10 Betrayal of the Flesh
+	10 Dusktome Inventor
+	10 Eylara, Of Talis' Burden
+	10 Flint, the Trickster
+	10 Leyline of Industry
+	10 Leymage Elemental
+	10 Living Summons
+	10 Living Wrath
+	10 Lumendrial Thopter
+	10 Meran Iloon, Aritifcer
+	10 Nalvorn Shattermage
+	10 Node Raid
+	10 Priest of Nalvess
+	10 Primal Resurgence
+	10 The Prismatic Leyline
+	10 Raiser of the Waves
+	10 Rebellious Fury
+	10 Rebellious Reclamation
+	10 Ryvok Shatters the Seal
+	10 Ryvok, Subjugated Rebel
+	10 Sanctuary Leyline
+	10 Soaring Exterminator
+	10 Albrath Manacore
+	10 Bone Reaver
+	10 The Engine of Eternity
+	10 Impulse Gauntlet
+	10 Insurgence Blade
+	10 Leyline Crossroads
+	10 Mana Tap
+	10 Nalvorn Leyring
+	10 Nodeseeker's Bauble
+	10 Reconnaissance Drone
+	10 Albrath, Of Ivory Towers
+	10 Dusktome, Of Metallic Spires
+	10 Embershade Refuge
+	10 Forge City
+	10 Lumendrial, Of the Absolute
+	10 Nalvethra, the Shimmering City
+	10 Node Enclave
+	10 Vein Encampment
+	[LandSlot(1)]
+	
